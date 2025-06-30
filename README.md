@@ -1,5 +1,5 @@
 # Mobile-sale-Dashboard
-#📊 Motorola Mobile Sales Power BI Dashboard
+📊 Motorola Mobile Sales Power BI Dashboard
 This Power BI dashboard presents an interactive overview of Motorola's mobile sales performance across various Indian cities. It includes visual insights into sales metrics, customer behavior, and mobile model distribution to assist in data-driven decision-making.
 
 🔍 Key Features
